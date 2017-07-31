@@ -1,0 +1,22 @@
+# Base configs
+baseurl: ""
+url: "http://mjsundar.github.io"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+#google_analytics: "UA-46465113-2"
+
+# UI configs
+title: "Vibrant photography"
+subtitle: "See the world with different way...!"
+author: "Manoj Sundar"
+bio: "I am a Photographer, in a simple way"
+publicise: "see me code @ githb"
+web_design: "srsds"
+social_urls:
+  facebook: "https://www.facebook.com/manojsundar98"
+  twitter: "https://www.twitter.com/ramswarooppatra"
+  instagram: "https://www.instagram.com/ramswarooppatra"
+  dribbble: "https://dribbble.com/ramswaroop"
+  linkedin: "https://in.linkedin.com/in/ramswarooppatra"
+  github: "https://www.github.com/mjsundar"
+  
